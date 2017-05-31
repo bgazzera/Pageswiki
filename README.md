@@ -4,4 +4,4 @@ Welcome to the Design Language website!
 
 Projects:
 
-- [Cavendish](docs/Cavendish/index.html)
+- [Cavendish](https://bgazzera.github.io/Pageswiki/Cavendish/index.html)
